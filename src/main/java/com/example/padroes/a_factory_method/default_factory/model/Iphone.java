@@ -1,4 +1,4 @@
-package com.example.padroes.a_factory_method.model;
+package com.example.padroes.a_factory_method.default_factory.model;
 
 public abstract class Iphone {
 
