@@ -1,6 +1,7 @@
 package com.example.padroes.a_factory_method.default_factory.app;
 
 import com.example.padroes.a_factory_method.default_factory.factory.*;
+import com.example.padroes.a_factory_method.default_factory.factory.abstractFactory.IphoneFactory;
 import com.example.padroes.a_factory_method.default_factory.model.Iphone;
 
 public abstract class Client {

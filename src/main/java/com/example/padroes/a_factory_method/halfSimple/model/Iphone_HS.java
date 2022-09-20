@@ -1,5 +1,6 @@
 package com.example.padroes.a_factory_method.halfSimple.model;
 
+/** @@Entity-Basic */
 public abstract class Iphone_HS {
 
     public abstract void getHardware();

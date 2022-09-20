@@ -1,8 +1,9 @@
-package com.example.padroes.a_factory_method.halfSimple.factory;
+package com.example.padroes.a_factory_method.halfSimple.factory.abstractFactory;
 
 
 import com.example.padroes.a_factory_method.halfSimple.model.Iphone_HS;
 
+/** Factory default - abstract - to extends */
 public abstract class IphoneFactory_HS {
 
     public Iphone_HS orderIphone(String level){
