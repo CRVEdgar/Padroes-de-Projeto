@@ -1,4 +1,4 @@
-package com.example.padroes.c_singleton.connectionPool.app;
+package com.example.padroes.c_singleton.app;
 
 import com.example.padroes.c_singleton.connectionPool.conn.Connection;
 import com.example.padroes.c_singleton.connectionPool.conn.ConnectionPool;
